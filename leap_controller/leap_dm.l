@@ -1,4 +1,6 @@
 #!/usr/bin/env roseus
+
+
 ;;;
 ;;; euslisp version of ros_tutorials/rospy_tutorials/001_talker_listener
 ;;;
